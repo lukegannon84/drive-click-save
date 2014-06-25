@@ -1,0 +1,1 @@
+create table add_fuel(id int auto_increment,mileage int (20), date varchar(20),qty int (20), price double, total double,registration varchar (20),primary key(id))
